@@ -11,7 +11,6 @@ Welcome to my Java Projects Repository! This repository contains various Java pr
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
