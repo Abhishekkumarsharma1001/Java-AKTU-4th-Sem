@@ -70,6 +70,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [Abhishek Kumar Sharma](mailto:abhikumarsharma146@example.com)
+Name - [Abhishek Kumar Sharma](https://www.linkedin.com/in/abhishek-kumar-sharma-3b2bb0213/)
+
+Email Id - [abhikumarsharma146@gmail.com](mailto:abhikumarsharma146@example.com)
 
 Project Link: [Java-AKTU-4th-Semester](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem.git)
