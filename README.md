@@ -21,9 +21,10 @@ This repository showcases my journey through learning Java programming. Each pro
 ## Projects
 
 1. **Project Name**: [Arithmatic Operation](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/ArithOperator.java).
-2. **Project Name**: [BankAccountException](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/BankAccountException.java).
-3. **Project Name**: [Array](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/array.java).
-4. **Project Name**: [Array Update](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/arrayupdate.java).
+2. **Project Name**: [Binary Search](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/BinarySearch.java).
+3. **Project Name**: [BankAccountException](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/BankAccountException.java).
+4. **Project Name**: [Array](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/array.java).
+5. **Project Name**: [Array Update](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/arrayupdate.java).
    
 
 ## Development Tools
