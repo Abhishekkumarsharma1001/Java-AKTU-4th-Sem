@@ -13,7 +13,7 @@ Welcome to my Java Projects Repository! This repository contains various Java pr
 - [Contributing](#contributing)
 - [Contact](#contact)
 
-## Introduction 
+## Introduction
 
 This repository showcases my journey through learning Java programming. Each project reflects a specific topic or concept covered in the syllabus. The projects range from basic to advanced levels, highlighting my progress and proficiency in Java.
 
