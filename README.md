@@ -24,7 +24,7 @@ This repository showcases my journey through learning Java programming. Each pro
 3. **Project Name**: [BankAccountException](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/BankAccountException.java).
 4. **Project Name**: [Array](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/array.java).
 5. **Project Name**: [Array Update](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/arrayupdate.java).
-6. **Project Name**: [Binary to Decimal](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/binaryTodecimal.java).
+6. **Project Name**: [Binary to Decimal](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/binaryTodecimal.java). 
    
 
 ## Development Tools
