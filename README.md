@@ -25,6 +25,7 @@ This repository showcases my journey through learning Java programming. Each pro
 4. **Project Name**: [Array](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/array.java).
 5. **Project Name**: [Array Update](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/arrayupdate.java).
 6. **Project Name**: [Binary to Decimal](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/binaryTodecimal.java).
+7. **Project Name**: [Calculator](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/Calculator.java).
    
 
 ## Development Tools
