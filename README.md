@@ -19,13 +19,14 @@ This repository showcases my journey through learning Java programming. Each pro
 
 ## Projects
 
-1. **Project Name**: [Arithmatic Operation](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/ArithOperator.java).
-2. **Project Name**: [Binary Search](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/BinarySearch.java).
-3. **Project Name**: [BankAccountException](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/BankAccountException.java).
-4. **Project Name**: [Array](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/array.java).
-5. **Project Name**: [Array Update](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/arrayupdate.java).
-6. **Project Name**: [Binary to Decimal](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/binaryTodecimal.java).
-7. **Project Name**: [Calculator](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/Calculator.java).
+1. **Project Name**: [Welcome to Java](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/Hello.java).
+2. **Project Name**: [Arithmatic Operation](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/ArithOperator.java).
+3. **Project Name**: [Binary Search](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/BinarySearch.java).
+4. **Project Name**: [BankAccountException](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/BankAccountException.java).
+5. **Project Name**: [Array](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/array.java).
+6. **Project Name**: [Array Update](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/arrayupdate.java).
+7. **Project Name**: [Binary to Decimal](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/binaryTodecimal.java).
+8. **Project Name**: [Calculator](https://github.com/Abhishekkumarsharma1001/Java-AKTU-4th-Sem/blob/main/Calculator.java).
    
 
 ## Development Tools
